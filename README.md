@@ -1,2 +1,2 @@
 # ProjetosAndroid
-Projetos didáticos para o estudo da Matéria de Tópicos Especias em Informática
+Implementação de aplicações didáticas em Android Studio na matéria de Tópicos Especias em Informática
